@@ -1,4 +1,6 @@
-<h1 align="center">Rodrigo Ferreira</h1>
+<!-- BANNER / HEADER -->
+<h1 align="center">👋 Olá, eu sou o Rodrigo Ferreira</h1>
+<h3 align="center">Desenvolvedor em formação | Focado em criar soluções práticas e eficientes</h3>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5521985335344">
@@ -9,42 +11,74 @@
   </a>
 </p>
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas — focado em desenvolvimento backend e construção de sistemas robustos.
+---
+
+## 🎯 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por desenvolvimento backend, bancos de dados e projetos que envolvem lógica, integrações e automações.
+
+Atualmente focado em:
+
+- Construção de sistemas reais (estoque, gestão, fluxo de dados)
+- Java, Python e SQL
+- Docker para ambientes isolados e profissionais
+- Boas práticas, organização e estrutura limpa
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 🔹 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔹 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🔹 Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-0074C1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🔹 Ferramentas & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 Estatísticas
+## 📌 Projetos em Destaque
+
+🔸 **Sistema de Controle de Estoque (Java + Docker + MySQL)**  
+➡ Gerenciamento completo de itens, categorias e movimentação  
+🔗 https://github.com/RodrigoTechieX/Sistema-de-Controle-de-Estoque  
+
+🔸 **Sistema de Gestão de Dados (Python + Tkinter)**  
+➡ Interface completa para gerenciamento de informações  
+🔗 https://github.com/RodrigoTechieX/Sistema-de-gestao-de-dados  
+
+🔸 **Website Pessoal (HTML + CSS)**  
+➡ Meu primeiro projeto web, totalmente responsivo  
+🔗 https://github.com/RodrigoTechieX/Site  
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
----
-
-### 🛠️ Tecnologias
-
-<p align="center">
-  <a href="https://github.com/RodrigoTechieX/Site">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RodrigoTechieX/Site">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RodrigoTechieX/Sistema-de-Controle-de-Estoque">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RodrigoTechieX/Sistema-de-gestao-de-dados">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RodrigoTechieX">
-    <img src="https://img.shields.io/badge/SQL-0074C1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTechieX&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Em constante evolução para construir sistemas melhores."</em>
+  <em>“A evolução nunca para — cada linha de código é um passo adiante.”</em>
 </p>
