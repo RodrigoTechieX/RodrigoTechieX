@@ -65,7 +65,7 @@ Atualmente focado em:
 
 🔸 **Sistema de Gestão de Dados (Python + Tkinter)**  
 ➡ Interface completa para gerenciamento de informações  
-🔗 https://github.com/RodrigoTechieX/Sistema-de-gestao-de-dados  
+🔗 https://github.com/RodrigoTechieX/Sistema-de-controle-de-dados  
 
 🔸 **Website Pessoal (HTML + CSS)**  
 ➡ Meu primeiro projeto web, totalmente responsivo  
