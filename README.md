@@ -75,7 +75,8 @@ Atualmente focado em:
 
 ## 📊 Estatísticas
 
-[![RodrigoTechieX GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX)](https://github.com/RodrigoTechieX)
+[![RodrigoTechieX GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&theme=dark)](https://github.com/RodrigoTechieX)
+
 
 
 ---
