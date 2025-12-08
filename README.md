@@ -52,14 +52,12 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-stats-generator.vercel.app/api/stats?username=RodrigoTechieX&theme=radical)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTechieX&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
-![Top Linguagens](https://github-stats-generator.vercel.app/api/stats?type=languages&username=RodrigoTechieX)
 
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=radical)
 
 ---
 
