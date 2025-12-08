@@ -77,7 +77,7 @@ Atualmente focado em:
 
 ---
 
-<div align="center" style="display:flex; flex-direction:column; gap:15px;">
+
 
 <!-- GitHub Stats -->
 <a href="https://github.com/RodrigoTechieX">
