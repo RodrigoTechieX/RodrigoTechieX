@@ -77,11 +77,6 @@ Atualmente focado em:
 
 
 
-
-
-<!-- GitHub Stats -->
-
-
 <!-- GitHub Stats -->
 <a href="https://github.com/RodrigoTechieX">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&count_private=true&hide_border=false&hide_title=false&border_radius=12" alt="RodrigoTechieX GitHub Stats" />
@@ -96,11 +91,6 @@ Atualmente focado em:
 <a href="https://github.com/RodrigoTechieX">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </a>
-
-
-
-
-
 
 
 
