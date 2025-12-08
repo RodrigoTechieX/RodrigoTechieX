@@ -75,7 +75,7 @@ Atualmente focado em:
 
 ## 📊 Estatísticas
 
----
+
 
 
 
@@ -100,7 +100,7 @@ Atualmente focado em:
 
 
 
----
+
 
 
 
