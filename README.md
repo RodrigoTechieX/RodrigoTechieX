@@ -75,9 +75,11 @@ Atualmente focado em:
 
 ## 📊 Estatísticas
 
-[![RodrigoTechieX GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&theme=dark)](https://github.com/RodrigoTechieX)
+[![RodrigoTechieX GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&count_private=true&hide_border=false)](https://github.com/RodrigoTechieX)
 
-[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6)](https://github.com/RodrigoTechieX)
+[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6&theme=dark&hide_border=false)](https://github.com/RodrigoTechieX)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false)](https://github.com/RodrigoTechieX)
 
 
 
