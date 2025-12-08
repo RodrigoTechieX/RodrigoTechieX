@@ -75,11 +75,31 @@ Atualmente focado em:
 
 ## 📊 Estatísticas
 
-[![RodrigoTechieX GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&count_private=true&hide_border=false)](https://github.com/RodrigoTechieX)
+---
 
-[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6&theme=dark&hide_border=false)](https://github.com/RodrigoTechieX)
+## 📊 Minhas Estatísticas do GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false)](https://github.com/RodrigoTechieX)
+<div align="center" style="display:flex; flex-direction:column; gap:15px;">
+
+<!-- GitHub Stats -->
+<a href="https://github.com/RodrigoTechieX">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&count_private=true&hide_border=false&hide_title=false&border_radius=12" alt="RodrigoTechieX GitHub Stats" />
+</a>
+
+<!-- Top Linguagens -->
+<a href="https://github.com/RodrigoTechieX">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6&theme=dark&hide_border=false&border_radius=12" alt="Top Linguagens" />
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/RodrigoTechieX">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false&border_radius=12" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
 
 
 
