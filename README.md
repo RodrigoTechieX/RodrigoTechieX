@@ -73,9 +73,9 @@ Atualmente focado em:
 
 ---
 
-## 📊 Estatísticas
+## 📊 Minhas Estatísticas do GitHub
 
-
+<div align="center" style="display:flex; flex-direction:column; gap:15px;">
 
 <!-- GitHub Stats -->
 <a href="https://github.com/RodrigoTechieX">
@@ -92,8 +92,7 @@ Atualmente focado em:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </a>
 
-
-
+</div>
 
 ---
 
