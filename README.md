@@ -50,9 +50,12 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
+## Estatísticas do GitHub
+
 ![RodrigoTechieX GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=radical)
 
-![RodrigoTechieX GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTechieX&layout=compact&theme=radical)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=radical)
