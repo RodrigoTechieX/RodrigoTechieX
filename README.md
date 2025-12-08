@@ -52,9 +52,10 @@
 
 ## Estatísticas do GitHub
 
-![RodrigoTechieX GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-generator.vercel.app/api/stats?username=RodrigoTechieX&theme=radical)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTechieX&layout=compact&theme=radical)
+![Top Linguagens](https://github-stats-generator.vercel.app/api/stats?type=languages&username=RodrigoTechieX)
+
 
 
 
