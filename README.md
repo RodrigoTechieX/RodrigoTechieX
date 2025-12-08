@@ -48,6 +48,16 @@
 
 ###
 
+## 📊 Minhas Estatísticas no GitHub
+
+![RodrigoTechieX GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoTechieX&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=radical)
+
+---
+
 <p align="center">
 ✨ Creating Websites since 2020
 📚 I'm currently learning Python
