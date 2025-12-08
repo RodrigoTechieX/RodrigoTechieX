@@ -77,6 +77,8 @@ Atualmente focado em:
 
 [![RodrigoTechieX GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&theme=dark)](https://github.com/RodrigoTechieX)
 
+[![Top Linguagens](https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6)](https://github.com/RodrigoTechieX)
+
 
 
 ---
