@@ -77,8 +77,6 @@ Atualmente focado em:
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
 <div align="center" style="display:flex; flex-direction:column; gap:15px;">
 
 <!-- GitHub Stats -->
