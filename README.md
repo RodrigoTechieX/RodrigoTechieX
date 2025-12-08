@@ -80,6 +80,9 @@ Atualmente focado em:
 
 
 <!-- GitHub Stats -->
+<div align="center" style="display:flex; flex-direction:column; gap:15px;">
+
+<!-- GitHub Stats -->
 <a href="https://github.com/RodrigoTechieX">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=RodrigoTechieX&show_icons=true&theme=dark&count_private=true&hide_border=false&hide_title=false&border_radius=12" alt="RodrigoTechieX GitHub Stats" />
 </a>
@@ -95,6 +98,7 @@ Atualmente focado em:
 </a>
 
 </div>
+
 
 ---
 
