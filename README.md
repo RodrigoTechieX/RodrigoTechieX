@@ -23,7 +23,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por dese
 Atualmente focado em:
 
 - Construção de sistemas reais (estoque, gestão, fluxo de dados)
-- Java, Python e SQL
+- Java, Python, SQL e (Html, Css, Js)
 - Docker para ambientes isolados e profissionais
 - Boas práticas, organização e estrutura limpa
 
