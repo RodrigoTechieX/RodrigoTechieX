@@ -59,25 +59,22 @@ Atualmente focado em:
 
 ## 📌 Projetos em Destaque
 
-🔸 **Sistema de Controle de Estoque (Java + Docker + MySQL)**  
+🔸 **Sistema de Controle de Estoque (Java + Docker + MySQL + Swing + Docker)**  
 ➡ Gerenciamento completo de itens, categorias e movimentação  
 🔗 [https://github.com/RodrigoTechieX/Sistema-de-Controle-de-Estoque ](https://github.com/RodrigoTechieX/Sistema-de-Controle-de-Estoque ) 
 
-🔸 **Sistema de Gestão de Dados (Python + Tkinter)**  
+🔸 **Sistema de Gestão de Dados (Python + Tkinter + Tkinter)**  
 ➡ Interface completa para gerenciamento de informações  
 🔗 [https://github.com/RodrigoTechieX/Sistema-de-controle-de-dados](https://github.com/RodrigoTechieX/Sistema-de-controle-de-dados)  
 
-🔸 **Website Pessoal (HTML + CSS)**  
+🔸 **Website Temático (HTML + CSS)**  
 ➡ Meu primeiro projeto web, totalmente responsivo  
 🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
 
-🔸 **Sistema Web para Gestão de Clínicas e Hospitais (HTML + CSS)**  
+🔸 **Sistema Web para Gestão de Clínicas e Hospitais (Python + Html/Css/Js + MySQL + Docker)**  
 ➡ Projeto para gestão administrativa e operacional de unidades de saúde  
 🔗 [https://github.com/RodrigoTechieX/MedCore-Sistema  ](https://github.com/RodrigoTechieX/MedCore-Sistema)
 
-🔸 **Sistema Web para Gestão de Clínicas e Hospitais (HTML + CSS)**  
-➡ Projeto para gestão administrativa e operacional de unidades de saúde
-🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
 
 ---
 
