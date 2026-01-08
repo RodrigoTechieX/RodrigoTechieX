@@ -71,6 +71,10 @@ Atualmente focado em:
 ➡ Meu primeiro projeto web, totalmente responsivo  
 🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
 
+🔸 **Website Pessoal (HTML + CSS)**  
+➡ Meu primeiro projeto web, totalmente responsivo  
+🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
+
 🔸 **Sistema Web para Gestão de Clínicas e Hospitais (HTML + CSS)**  
 ➡ Projeto para gestão administrativa e operacional de unidades de saúde
 🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
