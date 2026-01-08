@@ -92,10 +92,6 @@ Atualmente focado em:
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RodrigoTechieX&layout=compact&langs_count=6&theme=dark&hide_border=false&border_radius=12" alt="Top Linguagens" />
 </a>
 
-<!-- GitHub Streak -->
-<a href="https://github.com/RodrigoTechieX">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoTechieX&theme=dark&hide_border=false&border_radius=12" alt="GitHub Streak" />
-</a>
 
 </div>
 
