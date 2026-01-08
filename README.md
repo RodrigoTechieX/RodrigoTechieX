@@ -73,7 +73,7 @@ Atualmente focado em:
 
 🔸 **Sistema Web para Gestão de Clínicas e Hospitais (HTML + CSS)**  
 ➡ Projeto para gestão administrativa e operacional de unidades de saúde
-🔗 https://github.com/RodrigoTechieX/MedCore-Sistema
+🔗 [https://github.com/RodrigoTechieX/Site  ](https://github.com/RodrigoTechieX/Site)
 
 ---
 
