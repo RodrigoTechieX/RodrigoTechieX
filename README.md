@@ -1,6 +1,6 @@
 <!-- BANNER / HEADER -->
 <h1 align="center">👋 Olá, eu sou o Rodrigo Ferreira</h1>
-<h3 align="center">Desenvolvedor em formação | Focado em criar soluções práticas e eficientes</h3>
+<h3 align="center">Desenvolvedor Formado | Focado em criar soluções práticas e eficientes</h3>
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=5521985335344">
