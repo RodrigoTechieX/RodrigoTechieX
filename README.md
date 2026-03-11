@@ -25,7 +25,7 @@ Analista de TI & Desenvolvedor de Software graduado em Análise e Desenvolviment
 - Desenvolvimento Backend & Automação: Criação de scripts e aplicações utilizando Python e Java
 - Inteligência de Dados: Modelagem e manipulação de bancos de dados (SQL, MySQL, PostgreSQL) e criação de dashboards estratégicos no Power BI.
 - Arquitetura e DevOps: Uso de Docker para containerização de aplicações e ambientes de desenvolvimento profissionais
-- Desenvolvimento Web: Construção de interfaces funcionais e responsivas com HTML, CSS e JavaScript.
+- Desenvolvimento Web: Construção de interfaces funcionais e responsivas com HTML & CSS.
 
 ---
 
@@ -34,7 +34,6 @@ Analista de TI & Desenvolvedor de Software graduado em Análise e Desenvolviment
 ### 🔹 Backend & Automação
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white"/>
 </p>
 
@@ -42,7 +41,6 @@ Analista de TI & Desenvolvedor de Software graduado em Análise e Desenvolviment
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power_Apps-001242?style=for-the-badge&logo=microsoft-power-apps&logoColor=white"/>
 </p>
 
