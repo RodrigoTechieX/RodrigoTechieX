@@ -18,14 +18,14 @@
 
 ## 🎯 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por desenvolvimento backend, bancos de dados e projetos que envolvem lógica, integrações e automações.
+Analista de TI & Desenvolvedor de Software graduado em Análise e Desenvolvimento de Sistemas (2025). Tenho foco em Automação de Processos, Inteligência de Dados e Eficiência Operacional.Com experiência prática na Transpetro (Petrobras Transporte S.A), desenvolvi soluções que digitalizaram fluxos de inspeção e auditoria utilizando o ecossistema Power Platform e ferramentas de dados
 
-Atualmente focado em:
+🚀 No que estou focado:
 
-- Construção de sistemas reais (estoque, gestão, fluxo de dados)
-- Java, Python, SQL e (Html, Css, Js)
-- Docker para ambientes isolados e profissionais
-- Boas práticas, organização e estrutura limpa
+- Desenvolvimento Backend & Automação: Criação de scripts e aplicações utilizando Python e Java
+- Inteligência de Dados: Modelagem e manipulação de bancos de dados (SQL, MySQL, PostgreSQL) e criação de dashboards estratégicos no Power BI.
+- Arquitetura e DevOps: Uso de Docker para containerização de aplicações e ambientes de desenvolvimento profissionais
+- Desenvolvimento Web: Construção de interfaces funcionais e responsivas com HTML, CSS e JavaScript.
 
 ---
 
